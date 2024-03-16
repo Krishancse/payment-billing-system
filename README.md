@@ -1,8 +1,10 @@
-# payment-billing-system (full stack web d with java )
+# payment-billing-system 
 <h1 align="center">Hi 👋, I'm Krishan kant</h1>
-<h3 align="center">i am working as student at nsut</h3>
+<h3 align="center">i am working as student at nsut </h3>
 
-- student [# payment-billing-system](https://github.com/Krishancse/payment-billing-system/tree/main)
+- student at nsut
+
+- [# payment-billing-system](https://github.com/Krishancse/payment-billing-system/tree/main)
 
 - 🌱 I’m currently learning **machine learning ,trading and research with NumPy, pandas etc**
 
