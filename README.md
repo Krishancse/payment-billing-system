@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **machine learning ,trading and research with NumPy, pandas etc**
 
-- 👯 I’m looking to collaborate on [E-commerce-Market-Analysis](https://github.com/Krishancse/payment-billing-system/tree/main)
+- 👯 I’m looking to collaborate on payment billing system (https://github.com/Krishancse/payment-billing-system/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krishancse](https://github.com/Krishancse)
 
