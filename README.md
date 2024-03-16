@@ -1,4 +1,4 @@
-# payment-billing-system
+# payment-billing-system (full stack web d with java )
 <h1 align="center">Hi 👋, I'm Krishan kant</h1>
 <h3 align="center">i am working as student at nsut</h3>
 
